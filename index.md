@@ -1,9 +1,33 @@
-Welcome to Allyson Rice's data visualization portfolio.
+## Portfolio
 
-Please select which data you want to visualize:
+ ---
 
-Map of USA wildfires from 1992-2015 with user-controlled filters (available soon)
+ ### Category Name 1 
 
-Home ownership dashboard (available soon)
+ [Interactive map of USA wildfires from 1992-2015](/sample_page)
+ <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Search a recipe database based on available ingredients (available soon)
+ ---
+ [Home ownership dashboard](/pdf/sample_presentation.pdf)
+ <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+ ---
+ [Searchable recipe database](http://example.com/)
+ <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+ ---
+
+ ### Category Name 2
+
+ - [Interactive map of USA wildfires from 1992-2015](http://example.com/)
+ - [Home ownership dashboard](http://example.com/)
+ - [Searchable recipe database](http://example.com/)
+
+ ---
+
+
+
+
+ ---
+ <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+ <!-- Remove above link if you don't want to attibute -->
